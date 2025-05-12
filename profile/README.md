@@ -1,5 +1,3 @@
-# CEOS
-
 A GitHub organization for the open documents and source code that CEOS (Committee on Earth Observation Satellites) publishes and maintains.
 
 The original function of CEOS was to coordinate and harmonize Earth observations to make it easier for the user community to access and use data. CEOS initially focused on interoperability, common data formats, the inter-calibration of instruments, and common validation and inter-comparison of products. However, over time, the circumstances surrounding the collection and use of space-based Earth observations have changed.
