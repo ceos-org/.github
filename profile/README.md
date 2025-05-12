@@ -34,3 +34,6 @@ The CEOS community strives to provide a welcoming and transparent environment fo
 
 Please get in touch through the individual repositories if you have specific questions about the projects.
 Please see the [Contact Us](https://ceos.org/contact-us/) section on the website for more high-level contact information.
+
+Lastly, find additional official information about CEOS in the [Terms of Reference](https://ceos.org/document_management/Publications/Governing_Docs/CEOS_Terms-of-Reference_Nov2013.pdf).
+
